@@ -1,0 +1,93 @@
+
+.nombre_pulperia{
+    font-family: 'Anton', sans-serif;
+    font-size: 4em;
+    color: red; 
+  }
+
+.color_header {
+    background-color: gray;
+}
+
+
+header{
+    text-align: center;
+    color: white;
+    font-family: 'Pacifico';
+    font-size: 75px;
+    background-color: var(--lila);
+}
+
+.contenedorGeneral{
+ background-color: var(--lila);
+}
+
+.contenedor{
+    width: 1000px;
+    margin: auto;
+}
+.menuP{
+    background-color: var(--verde);
+    display: flex;
+    justify-content: space-between;
+}
+.menuP a{
+   color: var(--letra);
+   text-decoration: none;
+   font-weight: bold;
+   padding: 5px;
+}
+
+.menuP a:hover{
+    color: red;
+    background-color: white;
+ }
+
+ body{
+    width: 1500px;
+    height: 750px;
+    margin: auto;
+}
+
+main{
+    width: 1500px;
+    height: 600px;
+}
+
+#SEC1{
+    width: 1000px;
+    height: 600px;
+    float: left;
+}
+#SEC2{
+    width: 500px;
+    height: 600px;
+
+    float: left;
+}
+
+footer{
+    background-color: rgba(7, 112, 21, 0.788);
+    width: 1500px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+
+img#FOT1{
+    display: flex;
+    justify-content: center;
+    float: left;
+    padding: 10px;
+    height: 75px;
+    width: 75px;
+    display: block;
+    margin: 0px auto;
+    padding-left: 135px;
+    padding-right: 135px; 
+}
+
+img#Mapa{
+ padding-left: 200px;
+}

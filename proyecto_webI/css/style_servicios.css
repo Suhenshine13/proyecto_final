@@ -1,0 +1,12 @@
+
+body {
+    background-color: gray;
+}
+
+
+
+.nombre_pulperia{
+    font-family: 'Anton', sans-serif;
+    font-size: 4em;
+    color: red; 
+  }
